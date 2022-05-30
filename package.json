@@ -1,0 +1,29 @@
+{
+  "name": "comp229.003.m2022",
+  "version": "1.0.0",
+  "description": "Code Example",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abasibiangake/COMP229.003.M2022.git"
+  },
+  "keywords": [
+    "Code",
+    "Example",
+    "COMP229",
+    "Express",
+    "Nodejs"
+  ],
+  "author": "Abasibiangake James",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Abasibiangake/COMP229.003.M2022/issues"
+  },
+  "homepage": "https://github.com/Abasibiangake/COMP229.003.M2022#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
